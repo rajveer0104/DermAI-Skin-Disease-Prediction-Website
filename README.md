@@ -98,7 +98,7 @@ https://skin-disease-prediction-website.vercel.app
 
 ### Test Login Credentials
 
-**Email:** anu22@skin.com
+**Email:** rajveer1@skin.com
 
 **Password:** Skin@test1
 
@@ -195,7 +195,7 @@ DermAI-Skin-Disease-Prediction-Website
 
 # 💡9️⃣ Authors
 
-Built by Anurima Sarkar👩‍💻 & Rajveer Sanyal👨‍💻
+Built by Rajveer Sanyal👨‍💻 & Anurima Sarkar👩‍💻  
 
 If you like this project, consider to give a ⭐ to the repository on GitHub.
 
