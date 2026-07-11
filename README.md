@@ -193,7 +193,8 @@ DermAI-Skin-Disease-Prediction-Website
 
 ---
 
-📜9️⃣ License
+# 📜9️⃣ License
+
 
 This project is licensed under the MIT License.
 
@@ -201,10 +202,13 @@ You are free to use, modify, distribute, and build upon this project for persona
 
 For more details, see the LICENSE file included in this repository.
 
-💡🔟 Authors
+
+# 💡🔟 Authors
+
 
 Built by Rajveer Sanyal 👨‍💻 & Anurima Sarkar 👩‍💻
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
 Let's make the coding journey an interesting one together. ✨
+
