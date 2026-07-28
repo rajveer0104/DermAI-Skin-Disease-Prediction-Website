@@ -60,7 +60,7 @@ A simple and user-friendly interface allows easy image upload, prediction viewin
 
 1️⃣ The user uploads a skin image through the web interface.
 
-2️⃣ The image is sent to the backend server.
+2️⃣ The image is sent to backend server.
 
 3️⃣ The backend forwards the image to the **FastAPI ML service**.
 
