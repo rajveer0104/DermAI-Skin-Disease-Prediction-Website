@@ -21,7 +21,7 @@ model_gen = genai.GenerativeModel("gemini-2.5-flash")
 interpreter = None
 input_details = None
 output_details = None
-
+#reduced to 10 classes
 classes = [
     "Eczema",
     "Warts",
