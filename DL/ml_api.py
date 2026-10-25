@@ -16,7 +16,7 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://skin-disease-prediction-website.vercel.app/",
+        "https://skin-disease-prediction-website.vercel.app",
         "http://localhost:3000",
         "http://localhost:5173",
     ],
