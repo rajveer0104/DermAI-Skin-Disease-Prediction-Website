@@ -12,7 +12,17 @@ load_dotenv()
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://skin-disease-prediction-website.vercel.app",
+        "http://localhost:3000",
+        "http://localhost:5173",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 #API
