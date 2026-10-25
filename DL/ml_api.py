@@ -154,7 +154,6 @@ async def predict_image(
             allergies,
             skinType
         )
-        ai_answer=ai_answer.split("*")
 
         return {
             "prediction_class": predicted_class,
